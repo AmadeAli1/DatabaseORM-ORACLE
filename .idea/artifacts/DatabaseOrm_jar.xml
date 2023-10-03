@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatabaseOrm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseOrm_jar</output-path>
+    <root id="archive" name="DatabaseOrm.jar">
+      <element id="module-output" name="DatabaseOrm" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/jdbc/ojdbc11/23.2.0.0/ojdbc11-23.2.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
